@@ -1,4 +1,4 @@
-# Hyperlocal-News-Anomaly-Detection-Source-Attribution🚀 Project Overview
+# Hyperlocal-News-Anomaly-Detection-Source-Attribution Project Overview
 This project builds an advanced NLP-powered system to detect anomalous patterns in hyperlocal news articles and identify source misattribution. It analyzes linguistic signals, sentiment, topics, and geographic cues to flag misleading or unusual news content.
 The system combines transformer-based embeddings, unsupervised anomaly detection, and geospatial NLP to ensure reliable and interpretable insights.
 
